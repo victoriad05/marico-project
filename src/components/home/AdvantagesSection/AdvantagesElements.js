@@ -73,6 +73,7 @@ export const TitleText = styled.h2`
 
     @media screen and (max-width:480px) {
         font-size: 18px;
+        white-space: nowrap;
     }
     @media screen and (max-width:768px) {
         font-size: 18px;
